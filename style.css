@@ -164,6 +164,7 @@
 .support{
     border: 1px solid;
     position: absolute;
+    height: 125px;
     padding-bottom: 18px;
     padding-right: 35px;
     background-color: #F8F8F8;
