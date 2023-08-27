@@ -142,3 +142,14 @@
 .s1{
     margin-left: 100px;
 }
+.num{
+    width: 150px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: black;
+}
+.num1{
+    align-items: center;
+    margin-left: 27px;
+    color: white;
+}
