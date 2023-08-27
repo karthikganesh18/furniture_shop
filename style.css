@@ -1,0 +1,144 @@
+.img{
+    width: 345px;
+    border: 1px solid ;
+}
+.sofa{
+    border: 1px solid black;
+    width: 120px;
+    border-radius: 10px;
+}
+.sofaimg{
+    width: 120px;
+    height: 90px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.sofatext{
+    margin-top: 27px;
+    padding: none;
+    margin-left: 40px;
+}
+.chair{
+    border: 1px solid black;
+    width: 120px;
+    border-radius: 10px;
+}
+.chairimg{
+    width: 120px;
+    height: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.chairtext{
+    padding: none;
+    margin-left: 40px;
+}
+.dressingimg{
+    width: 120px;
+    height: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.dressingtext{
+    margin-left: 15px;
+}
+.dressing{
+    border: 1px solid black;
+    width: 120px;
+    border-radius: 10px;
+}
+.reclainerimg{
+    width: 120px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.reclainertext{
+    margin-left: 15px;
+}
+.reclainer{
+    border: 1px solid black;
+    width: 120px;
+    border-radius: 10px;
+}
+.fasttext{
+    margin-left: 40px;
+
+}
+.sofaa1{
+    width: 120px;
+    margin: 5px;
+}
+.a1{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.b1{
+    border: 1px solid;
+    border-radius: 10px;
+}
+.d1{
+    margin-left: 30px;
+}
+.x1{
+    margin-left: 50px;
+}
+
+.fast{
+    margin-top: 20px;
+    width: 150px;
+    
+}
+.fastimg{
+    width: 100%;
+    
+}
+.quality{
+    width: 170px;
+
+}
+.qualityimg{
+    width: 100%;
+}
+.qualitytext{
+    margin-left: 25px;
+    
+}
+.warranty{
+    margin-top: 20px;
+    width: 125px;
+}
+.warrantyimg{
+    width: 100%;
+}
+.warrantytext{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.extra{
+    display: flex;
+    overflow-x: auto;
+     transition: 1s;
+}
+.i1{
+   
+    width: 200px;
+}
+.i3{
+    display: none;
+}
+.f1{
+    display: flex;
+    gap: 40px;
+}
+.f2{
+    display: flex;
+    gap: 40px;
+}
+.s{
+   margin-left: 140px;
+}
+.s1{
+    margin-left: 100px;
+}
